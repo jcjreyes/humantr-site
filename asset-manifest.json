@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/humantr-site/static/css/main.47434c45.css",
+    "main.js": "/humantr-site/static/js/main.cdf0609f.js",
+    "static/js/787.00b2d56f.chunk.js": "/humantr-site/static/js/787.00b2d56f.chunk.js",
+    "static/media/pic3.png": "/humantr-site/static/media/pic3.f4eaf48a8953df72ebad.png",
+    "static/media/pic1.png": "/humantr-site/static/media/pic1.d0cb866170e6ee10d59e.png",
+    "static/media/pic4.png": "/humantr-site/static/media/pic4.af963f580ffe17dd338d.png",
+    "static/media/pic2.png": "/humantr-site/static/media/pic2.f31ce7685ffcb0dea92f.png",
+    "static/media/logo.png": "/humantr-site/static/media/logo.d114438745cb7eda426f.png",
+    "static/media/icon.png": "/humantr-site/static/media/icon.a59dbd258aebb9beedb4.png",
+    "index.html": "/humantr-site/index.html",
+    "main.47434c45.css.map": "/humantr-site/static/css/main.47434c45.css.map",
+    "main.cdf0609f.js.map": "/humantr-site/static/js/main.cdf0609f.js.map",
+    "787.00b2d56f.chunk.js.map": "/humantr-site/static/js/787.00b2d56f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47434c45.css",
+    "static/js/main.cdf0609f.js"
+  ]
+}
