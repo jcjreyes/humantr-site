@@ -63,7 +63,7 @@ const ArmsPage = () => {
             }}
           >
             <h2 style={{ fontWeight: 800, fontSize: '2.25rem' }}>
-              Forced Labor and Human Slavery
+              Forced Labor and Modern Slavery
             </h2>
             <p style={{ flex: 1, fontSize: '1.25rem' }}>
               Labor trafficking is a form of human trafficking which involves
